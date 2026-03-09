@@ -1,2 +1,2 @@
-# hiatus
-My personal portfolio aka HIATUS project
+# HIATUS
+Gamedev projects based on my personal interests.
